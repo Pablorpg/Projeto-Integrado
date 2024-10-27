@@ -65,7 +65,7 @@ body{
 
 .tres-pontos{
     margin-top: 13.5px;
-    margin-right: 230px;
+    margin-right: 250px;
 }
 
 .aviso{
@@ -90,8 +90,7 @@ body{
     border: none;
     border-bottom: 2px solid white;
     color: white;
-    cursor: pointer; 
-    display: flex;
+    cursor: pointer;
     padding-left: 23px;
 }
 
@@ -128,11 +127,10 @@ body{
 
 .p1-menu{
     position: relative;
-    right: 205px;
+    right: 66px;
     font-size: 16px;
-    bottom: 3px;
+    bottom: 43.5px;
 }
-
 .p2-novidades{
     position: relative;
     right: 40px;
