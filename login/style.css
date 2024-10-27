@@ -12,7 +12,7 @@
 }
 
 body{
-    background-image: url(fundo-3.png);
+    background-image: url(imagens/fundo-3.png);
     background-size: cover;
     display: flex;
     align-items: center;
